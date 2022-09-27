@@ -1,7 +1,7 @@
 #  Steven's UX Portfolio
  | Introduction |   Me
  | ----------- | ----------------
- | - Hey my name is Steven Mendez, I am Mexican Colombian and I am in my last year of college. Something cool about me is that I lived in Mexico for over 12 years.    |   <img src="assets/steven.JPG" alt="drawing"/>|
+ | - Hey my name is Steven Mendez, I am Mexican Colombian and I am in my last year of college. Something cool about me is that I lived in Mexico for over 12 years.    |<img src="assets/steven.JPG" alt="drawing"/>|
 
 
 | Hobbies     |  Favorite Foods
