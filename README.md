@@ -7,16 +7,17 @@
 
 | Hobbies     |  Favorite Foods
 | ----------- | ----------------
-| Swimming    |  Huevos Rancheros
+| Swimming    | Huevos Rancheros
 | Fishing     | Chile Rellenos
 | Playing video games | Paneer Tikka Massala
-| Taking road trips |  Dosa
-|skate Boarding | IN N OUT
-|Snowboarding | CAVA
-|surfing | Avocado Toast
+| Taking road trips | Dosa
+| skate Boarding | IN N OUT
+| Snowboarding | CAVA
+| surfing | Avocado Toast
+
 ## UX Team Project
 
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with a Nissan Altima 2019](j01/)
