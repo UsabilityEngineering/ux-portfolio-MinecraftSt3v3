@@ -12,19 +12,22 @@ Let's begin by giving some examples of what a major inconvenience can be like, f
 
 
 Others may have first started by pushing on the gas cover like a european vehicle for example volkswagen, BMW … but if you have a Nissan Altima you may follow a different step then the ones discussed above. Now Nissan Altimas are very popular cars, they are reliable, and some would even say you get bang for your buck, and I agree with them, they are really great cars. My girlfriend happens to have a 2019 Nissan Altima, and I remember my first experience pumping gas like it was yesterday. Here are the steps
+
 1. Reach for the lever beneath the seat just to the left.
-- I realize there is no lever
+  - I realize there is no lever
+
 2. My next thought is to look at the controls next to the steering wheel.  you know because it's a new car …
 
 <img src="sidepan.png" alt="Nissan Altima 2019" style="width:300px; height:450px;">
+  - NOT here either
 
-- NOT here either
-4. Get out, walk around the car and push the gas cap, like in a VW ( my car ) 
-- Nope not successful 
-5. So I walk back over and start looking and I see the gas logo on a lever beneath the steering wheel to the left
 
-Like this picture (Nissan Altima 2019)
+3. Get out, walk around the car and push the gas cap, like in a VW ( my car ) 
+  - Nope not successful 
 
+4. So I walk back over and start looking and I see the gas logo on a lever beneath the steering wheel to the left
+
+(Nissan Altima 2019)
 <img src="gaslever.png" alt="Nissan Altima 2019" style="width:300px; height:450px;">
 
 
