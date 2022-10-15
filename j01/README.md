@@ -22,13 +22,13 @@ Others may have first started by pushing on the gas cover like a european vehicl
 
 Like this picture (Nissan Altima 2019)
 
-<img src="gaslever.png" alt="Nissan Altima 2019"/>
+<img src="gaslever.png" alt="Nissan Altima 2019" style="width:300px; height:450px;">
 
 
 
 Now at this point I'm not really aware that it's a minor inconvenience, so I finish pumping the gas and go on my way. However, Fast forward a couple hundred miles after driving around town we have to pump gas again, this time I remember that the gas lever is under the steering wheel to the left, and without looking I am feeling around for the lever. It just so happens there is another lever just to the left of the gas release lever and it also happens to be the hood release lever, me not knowing at the time I pull the lever out and try to pump gas and the cap isn't open. But the hood is … So I go to close the hood and then pull the gas lever.
 
-<img src="otherlever.png " alt="Nissan Altima 2019"/>
+<img src="otherlever.png " alt="Nissan Altima 2019" style="width:300px; height:450px;">
 
 till this day I still make the same mistake because my Natural Mapping is that the lever underneath the wheel is supposed to be the hood release lever as in numerous other cars. I could see if Nissan decided to change the location of the gas release lever they would've done it in a different way where it doesn't interrupt the natural mapping of where the hood release lever is supposed to be. I'm sure other people feel the same way. Now I say minor inconvenience because the car is still a really good car, and this isn't such a big inconvenience to steer buyers away from this particular model. Unlike maserati using cheap interior dodge parts in their 80,000 dollar luxury sedan (maserati ghibli)  now I won't go into a tangent of how wrong it seems to me. 
 
