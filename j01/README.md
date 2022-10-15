@@ -19,7 +19,10 @@ Others may have first started by pushing on the gas cover like a european vehicl
 2. My next thought is to look at the controls next to the steering wheel.  you know because it's a new car …
 
 <img src="sidepan.png" alt="Nissan Altima 2019" style="width:300px; height:450px;">
+  
   - NOT here either
+
+
 
 
 3. Get out, walk around the car and push the gas cap, like in a VW ( my car ) 
