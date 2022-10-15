@@ -18,8 +18,9 @@ Others may have first started by pushing on the gas cover like a european vehicl
 - Nope not successful 
 4. So I walk back over and start looking and I see the gas logo on a lever beneath the steering wheel to the left
 
-Like this picture
+Like this picture (Nissan Altima 2019)
 
+<img src="steven.JPG" alt="Nissan Altima 2019"/>
 
 
 
