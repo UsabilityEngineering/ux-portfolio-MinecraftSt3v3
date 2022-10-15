@@ -20,7 +20,7 @@ Others may have first started by pushing on the gas cover like a european vehicl
 
 <img src="sidepan.png" alt="Nissan Altima 2019" style="width:300px; height:450px;">
   
-    - NOT here either
+  - Not here either
 
 
 
