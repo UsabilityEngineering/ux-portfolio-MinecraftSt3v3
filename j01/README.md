@@ -15,10 +15,13 @@ Others may have first started by pushing on the gas cover like a european vehicl
 1. Reach for the lever beneath the seat just to the left.
 - I realize there is no lever
 2. My next thought is to look at the controls next to the steering wheel.  you know because it's a new car …
+
+<img src="sidepan.png" alt="Nissan Altima 2019" style="width:300px; height:450px;">
+
 - NOT here either
-3. Get out, walk around the car and push the gas cap, like in a VW ( my car ) 
+4. Get out, walk around the car and push the gas cap, like in a VW ( my car ) 
 - Nope not successful 
-4. So I walk back over and start looking and I see the gas logo on a lever beneath the steering wheel to the left
+5. So I walk back over and start looking and I see the gas logo on a lever beneath the steering wheel to the left
 
 Like this picture (Nissan Altima 2019)
 
