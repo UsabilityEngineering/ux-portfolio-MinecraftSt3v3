@@ -37,4 +37,4 @@ till this day I still make the same mistake because my <strong> natural mapping 
 
 So thank you for making it to the end of my rant about my minor inconvenience. 
 
-- Steven
+Steven
