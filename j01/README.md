@@ -6,7 +6,8 @@
 # Nissan Altima 2019 gas cap inconvenience
 
 Let's begin by giving some examples of what a major inconvenience can be like, for example  a roommate not lowering the toilet seat after going to the bathroom, or not cleaning after themselves, these examples would be a major inconvenience that perhaps one would not like to live through, This is nothing like a minor inconvenience, personally, a minor inconvenience is something that doesn't work as expected but it is  also not a deal breaker. It is an issue that doesn't have much significance in someone's life but something that is noticed. Alright now that we got the major and minor inconveniences covered let's talk about my minor inconvenience. At one point in our lives everyone has pumped gas before. Let me ask you this question, what steps do you take to pump gas from start to finish. Some of you may have started off the scenario by first pulling the lever right underneath the seat on the left hand side. Just like the picture Below
-<img src="regularlever.png" alt="Nissan Altima 2019" style="width:300px height:500px">
+
+<img src="regularlever.png" alt="Nissan Altima 2019" style="width:300px; height:500px;">
 
 
 
