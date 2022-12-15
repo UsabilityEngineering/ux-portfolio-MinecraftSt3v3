@@ -12,4 +12,13 @@ I did some research after riding my friend's boosted board, I happen to find a s
 
 **This remote** was not error-tolerant whatsoever, any slight movement and the board could fly from under, injuring the rider.
 <img src="IMG_2109.png" alt="skatebolt" style="width:300px; height:450px;">
+
+Here you could see the pciture of the remote, it has a screen and speed modes.
+
+
+
 <img src="IMG_2111.png" alt="skatebolt" style="width:300px; height:450px;">
+In this picture you can see the accelorator mechanism and how it plain dangerous it can be. 
+
+
+In conlousion I fell a total of 2 times and they were not fun, falling at high speeds is very painful as you can imagine. I got rid of the skateboard becasue of how dangerous it was. Overall it was fun while it lasted.
