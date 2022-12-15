@@ -21,4 +21,6 @@
 ## UX Journal
 
 [Read about my experience with a Nissan Altima 2019](j01/)
+
+
 [Read about my experience with E skateboard](J02/)
