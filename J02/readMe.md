@@ -15,8 +15,13 @@ However, the remote had some flaws that made it dangerous to use. Firstly, it la
 <img src="IMG_2109.png" alt="skatebolt" style="width:300px; height:450px;">
 <img src="IMG_2111.png" alt="skatebolt" style="width:300px; height:450px;">
 
-After two falls, I realized the potential risks of using the electric skateboard and realized that it was not **error tollerant**. Falling at high speeds is incredibly painful, and I didn't want to put myself in that situation again. It was fun while it lasted, the safety concerns were too great to continue using the skateboard. One way this could be avoided is bby having a trigger mechanism on the back of the remote, like this picture bellow 
+After two falls, I realized the potential risks of using the electric skateboard and realized that it was not **error tollerant**. Falling at high speeds is incredibly painful, and I didn't want to put myself in that situation again. It was fun while it lasted, the safety concerns were too great to continue using the skateboard. One way this could be avoided is bby having a trigger mechanism on the back of the remote, like this picture below 
+
+
 <img src="boosted.png" alt="controller" style="width:300px; height:450px;">
+
+
+
 This prevents the accedental accelerations.
 
 
