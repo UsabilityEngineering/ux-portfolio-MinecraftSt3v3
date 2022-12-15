@@ -4,7 +4,7 @@ Dec 10, 2022
 
 # Tretrous Electric Skateboard (skatebolt)
 
-It was my 5th birthday when I got my the first skateboard, I remember it like it was yesterday> The skateboard had a spiderman design and red wheels. This was the start of my skateboarding journey. Fast forward to my freshman year in high school I, was able to get a longboard, wants just any longboard, and got a longboard that was used for bombing hills. Fast forward 8 years, technology has significantly improved, and electric skateboards are more common than ever.
+It was my 5th birthday when I got my the first skateboard, I remember it like it was yesterday. The skateboard had a spiderman design and red wheels. This was the start of my skateboarding journey. Fast forward to my freshman year in high school I, was able to get a longboard, wants just any longboard, and got a longboard that was used for bombing hills. Fast forward 8 years, technology has significantly improved, and electric skateboards are more common than ever.
 
 <img src="IMG_2114.png" alt="skatebolt" style="width:300px; height:450px;">
 
@@ -18,7 +18,7 @@ Here you could see the pciture of the remote, it has a screen and speed modes.
 
 
 <img src="IMG_2111.png" alt="skatebolt" style="width:300px; height:450px;">
-In this picture you can see the accelorator mechanism and how it plain dangerous it can be. 
+In this picture you can see the accelorator mechanism and how it can be dangerous. you could even see the forward and backward control is missing frommy second fall. 
 
 
 In conlousion I fell a total of 2 times and they were not fun, falling at high speeds is very painful as you can imagine. I got rid of the skateboard becasue of how dangerous it was. Overall it was fun while it lasted.
